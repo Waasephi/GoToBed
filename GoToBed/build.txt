@@ -1,0 +1,3 @@
+displayName = Go To Bed
+author = Waasephi
+version = 1.0
